@@ -134,7 +134,6 @@ function TweetCard({
           likeCount={likeCount}
         />
       </div>
-      {content}
     </li>
   );
 }
